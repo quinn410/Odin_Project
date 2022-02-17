@@ -1,12 +1,31 @@
 /* styles.css */
 
 body {
+  font-size: 80%;
+  text-align: center;
   font-family: marker felt, sans-serif;
-  background-color:rgb(152, 172, 158)  }
-h1 {
-  color: white }
+  max-width: 940px;
+  min-width: 720px;
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  border: 4px double #000;
+  background-color:rgb(152, 172, 158)
 }
+ 
+  
+h1 {
+  border-top: 2px solid #000;
+  border-bottom: 1px solid #000;
+  text-align: center;
+  font-family: marker felt, serif;
+  color: whitesmoke; }
+  
+  
+
+
  p {
+  
+  
    font-family: American Typewriter,serif;
    color: black;
  }
